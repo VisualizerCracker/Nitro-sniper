@@ -1,0 +1,231 @@
+[INFO] Already redeemed Code discord.gift/4ycdgGbq77msXuqqXhhTwvwV | None | Proof#7439
+[INFO] Already redeemed Code discord.gift/4ycdgGbq77msXuqqXhhTwvwV | None | シ Ｃｒｙｐｔ !#3722
+[INFO] Already redeemed Code discord.gift/xW7gR5Gw2RWXWQpZfayHFFk6 | Rolimon's | zeg#0001
+[INFO] Already redeemed Code discord.gift/Rv6EQBFcX529ptKA | Chillz Studios | DiamondWolf999#4199
+[INFO] Already redeemed Code discord.gift/SNA9gaVnyFkQ8e7H2CQeCgs8 | Rolimon's | KrypticRemains#6258
+[INFO] Already redeemed Code discord.gift/vAz7DDxdVta3JkyP | ｅ-ｄｇｙ | Fynn#1998
+[INFO] Already redeemed Code discord.gift/vAz7DDxdVta3JkyP | ｅ-ｄｇｙ | Fynn#1998
+[INFO] Already redeemed Code discord.gift/KAqyNJhnKeS7ma5P | FE Building | daoko#4810
+[INFO] Already redeemed Code discord.gift/Vpb7Z2XwQYEuTKzy8fbYYEz2 | FE Building | [Axis] derpy#3930
+[INFO] Already redeemed Code discord.gift/Vpb7Z2XwQYEuTKzy8fbYYEz2 | CHRISTNAPSE X | [Axis] derpy#3930
+[INFO] Already redeemed Code discord.gift/KAqyNJhnKeS7ma5P | Rumble Studios | carbonated milk#4080
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[INFO] Already redeemed Code discord.gift/GCU2e62pYKU3GRKTRnbQmPRc | ｅ-ｄｇｙ | asteria.#8272
+[INFO] Claimed Code discord.gift/bjpteWrJecsfCQWw | None | Jonah#1337 | {"id": "795719616671645727", "sku_id": "521846918637420545", "application_id": "521842831262875670", "user_id": "456147072043974656", "type": 6, "deleted": false, "gift_code_flags": 0, "consumed": true, "gifter_user_id": "555851176269316137", "subscription_plan": {"id": "511651871736201216", "name": "Nitro Classic Monthly", "interval": 1, "interval_count": 1, "tax_inclusive": true, "sku_id": "521846918637420545", "currency": "usd", "price": 499}, "sku": {"id": "521846918637420545", "type": 5, "dependent_sku_id": null, "application_id": "521842831262875670", "manifest_labels": null, "access_type": 1, "name": "Nitro Classic", "features": [], "release_date": null, "premium": null, "slug": "nitro-classic", "flags": 4, "show_age_gate": false}}
+[WARN] Invalid Code discord.gift/KAqyNJhnKeS7ma5P | CHRISTNAPSE X | Mani#5188
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[INFO] Already redeemed Code discord.gift/KRVkkSUztZZAXBERvF3v9EEf | Rumble Studios | Japanese Osas#5194
+[INFO] Already redeemed Code discord.gift/KRVkkSUztZZAXBERvF3v9EEf | Rumble Studios | Japanese Osas#5194
+[WARN] Invalid Code discord.gift/iwillfuckthizzinthebooty | Thizz (V2) | 𝙁𝙖𝙞𝙣𝙩𝙚𝙙𝙎𝙞𝙜𝙝𝙩#1246
+[INFO] Already redeemed Code discord.gift/xW7gR5Gw2RWXWQpZfayHFFk6 | Chillz Studios | Narserow#7333
+[INFO] Already redeemed Code discord.gift/SGUZMFv9uVQxpSfu | Thizz (V2) | akio#5110
+[INFO] Already redeemed Code discord.gift/SGUZMFv9uVQxpSfu | Thizz (V2) | akio#5110
+[INFO] Already redeemed Code discord.gift/HFBQjea8EcGb3jmc | CHRISTNAPSE X | equal#9581
+[INFO] Already redeemed Code discord.gift/HFBQjea8EcGb3jmc | CHRISTNAPSE X | equal#9581
+[INFO] Already redeemed Code discord.gift/HFBQjea8EcGb3jmc | CHRISTNAPSE X | equal#9581
+[INFO] Already redeemed Code discord.gift/HFBQjea8EcGb3jmc | CHRISTNAPSE X | equal#9581
+[INFO] Already redeemed Code discord.gift/HFBQjea8EcGb3jmc | CHRISTNAPSE X | equal#9581
+[INFO] Already redeemed Code discord.gift/887yNhFW2HCdu5Ma | CHRISTNAPSE X | equal#9581
+[INFO] Already redeemed Code discord.gift/74m2DCfhwrvTTRux | CHRISTNAPSE X | equal#9581
+[INFO] Already redeemed Code discord.gift/VrnWzDgJBH645ZGs | CHRISTNAPSE X | equal#9581
+[INFO] Already redeemed Code discord.gift/MmxSnFFQy32jMtDB | Thizz (V2) | zaii#1400
+[INFO] Already redeemed Code discord.gift/MmxSnFFQy32jMtDB | Thizz (V2) | zaii#1400
+[INFO] Already redeemed Code discord.gift/MmxSnFFQy32jMtDB | Thizz (V2) | zaii#1400
+[INFO] Already redeemed Code discord.gift/MmxSnFFQy32jMtDB | Thizz (V2) | zaii#1400
+[INFO] Already redeemed Code discord.gift/MmxSnFFQy32jMtDB | Thizz (V2) | zaii#1400
+[INFO] Already redeemed Code discord.gift/MmxSnFFQy32jMtDB | Thizz (V2) | zaii#1400
+[INFO] Already redeemed Code discord.gift/MmxSnFFQy32jMtDB | Thizz (V2) | zaii#1400
+[INFO] Already redeemed Code discord.gift/MmxSnFFQy32jMtDB | Thizz (V2) | zaii#1400
+[INFO] Already redeemed Code discord.gift/MmxSnFFQy32jMtDB | Thizz (V2) | zaii#1400
+[INFO] Already redeemed Code discord.gift/MmxSnFFQy32jMtDB | Thizz (V2) | zaii#1400
+[INFO] Already redeemed Code discord.gift/MmxSnFFQy32jMtDB | Thizz (V2) | zaii#1400
+[INFO] Already redeemed Code discord.gift/MmxSnFFQy32jMtDB | Thizz (V2) | zaii#1400
+[INFO] Already redeemed Code discord.gift/MmxSnFFQy32jMtDB | Thizz (V2) | zaii#1400
+[INFO] Already redeemed Code discord.gift/MmxSnFFQy32jMtDB | Thizz (V2) | zaii#1400
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[INFO] Already redeemed Code discord.gift/MmxSnFFQy32jMtDB | Thizz (V2) | zaii#1400
+[INFO] Already redeemed Code discord.gift/MmxSnFFQy32jMtDB | None | シ Ｃｒｙｐｔ !#3722
+[INFO] Already redeemed Code discord.gift/4ycdgGbq77msXuqqXhhTwvwV | シ Ｃｒｙｐｔ !'s server | シ Ｃｒｙｐｔ !#3722
+[INFO] Already redeemed Code discord.gift/FXVDreASCFnCjJH6 | FE Building | Catchii#8556
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[INFO] Already redeemed Code discord.gift/PajfHVGXEqrGYxx9 | burgs.io | Mika~#0229
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[INFO] Already redeemed Code discord.gift/kUFHFT8bf2cjde2n | Thizz 2021 | OniRemain鬼#0009
+[INFO] Already redeemed Code discord.gift/FyPMy65mKkEnBjsD | ｅ-ｄｇｙ | Fуnn#6969
+[INFO] Already redeemed Code discord.gift/AJ8JXFfezY68wFxW | Thizz 2021 | 𝑆𝑇𝐼𝑇𝐶𝐻#7777
+[INFO] Already redeemed Code discord.gift/M3QdMXXTsgWRUJdjU3T5SAFb | memeology | ant piss#0274
+[INFO] Already redeemed Code discord.gift/M3QdMXXTsgWRUJdjU3T5SAFb | memeology | ✦ Astro-Kami 07 ✦#0001
+[INFO] Already redeemed Code discord.gift/M3QdMXXTsgWRUJdjU3T5SAFb | memeology | ant piss#0274
+[INFO] Already redeemed Code discord.gift/M3QdMXXTsgWRUJdjU3T5SAFb | memeology | ant piss#0274
+[INFO] Already redeemed Code discord.gift/M3QdMXXTsgWRUJdjU3T5SAFb | memeology | Gerld#8605
+[INFO] Already redeemed Code discord.gift/M3QdMXXTsgWRUJdjU3T5SAFb | memeology | ant piss#0274
+[INFO] Already redeemed Code discord.gift/M3QdMXXTsgWRUJdjU3T5SAFb | memeology | 3vn#3209
+[INFO] Already redeemed Code discord.gift/FyPMy65mKkEnBjsD | ｅ-ｄｇｙ | Fуnn#6969
+[INFO] Already redeemed Code discord.gift/DpT6J22Q84v4QKzS | Thizz 2021 | GAZER GAZER#6969
+[INFO] Already redeemed Code discord.gift/6Kvk2V7xtY3XCbDM | Terror | 竜LWERVO竜#9999
+[INFO] Already redeemed Code discord.gift/jYBYC4WfNcCrA6nq | Thizz 2021 | TG dvod#3916
+[INFO] Already redeemed Code discord.gift/4jknDnnpHZbktCYe7R6XwrWH | KFC BALL | NotNick#6969
+[INFO] Already redeemed Code discord.gift/4jknDnnpHZbktCYe7R6XwrWH | KFC BALL | POLARIZED#3870
+[INFO] Already redeemed Code discord.gift/4jknDnnpHZbktCYe7R6XwrWH | KFC BALL | POLARIZED#3870
+[WARN] Invalid Code discord.gift/4jknDnnpHZbktCYe7R6XwrW | KFC BALL | POLARIZED#3870
+[WARN] Invalid Code discord.gift/sTt8Tqx4UKVVwedx | Among Us Global | felict#8119
+[INFO] Already redeemed Code discord.gift/D5Fq3kEndmr2rfx4 | Rolimon's | MUYPE#3883
+[INFO] Already redeemed Code discord.gift/D5Fq3kEndmr2rfx4 | Rolimon's | MUYPE#3883
+[INFO] Already redeemed Code discord.gift/D5Fq3kEndmr2rfx4 | Rolimon's | MUYPE#3883
+[INFO] Already redeemed Code discord.gift/D5Fq3kEndmr2rfx4 | Rolimon's | MUYPE#3883
+[INFO] Already redeemed Code discord.gift/EYthrdqtYgJJnRm6 | Thizz 2021 | TG dvod#3916
+[INFO] Already redeemed Code discord.gift/F6b2vfN4dj8dUSP8cecUA9cU | Chillz Studios | dream zeg (kingroblox1251)#8600
+[INFO] Already redeemed Code discord.gift/vGQUEvk7yvduntew | KFC BALL | LUKEWARM_Tacos#5934
+[INFO] Already redeemed Code discord.gift/vGQUEvk7yvduntew | KFC BALL | LUKEWARM_Tacos#5934
+[INFO] Already redeemed Code discord.gift/F6b2vfN4dj8dUSP8cecUA9cU | Chillz Studios | ~|•私オーラ私•|~#0626
+[INFO] Already redeemed Code discord.gift/xW7gR5Gw2RWXWQpZfayHFFk6 | Chillz Studios | dream zeg (kingroblox1251)#8600
+[INFO] Already redeemed Code discord.gift/xW7gR5Gw2RWXWQpZfayHFFk6 | Chillz Studios | ~|•私オーラ私•|~#0626
+[WARN] Invalid Code discord.gift/2sNBV0P0tzPJcy3X | memeology | Magnum7#3172
+[WARN] Invalid Code discord.gift/2sNBV0P0tzPJcy3X | memeology | Magnum7#3172
+[WARN] Invalid Code discord.gift/PsychIsFarFromVirginity | Rolimon's | javascam#2021
+[WARN] Invalid Code discord.gift/PsychIsFarFromVirginity | Rolimon's | javascam#2021
+[INFO] Already redeemed Code discord.gift/xW7gR5Gw2RWXWQpZfayHFFk6 | Chillz Studios | dream zeg (kingroblox1251)#8600
+[INFO] Already redeemed Code discord.gift/4jknDnnpHZbktCYe7R6XwrWH | KFC BALL | Evil ;)#0001
+[INFO] Already redeemed Code discord.gift/4jknDnnpHZbktCYe7R6XwrWH | KFC BALL | Evil ;)#0001
+[INFO] Already redeemed Code discord.gift/4jknDnnpHZbktCYe7R6XwrWH | KFC BALL | Evil ;)#0001
+[WARN] Invalid Code discord.gift/NineteenDollarFortniteGi | KFC BALL | Terminator#1010
+[INFO] Already redeemed Code discord.gift/gVHQawHG4jfnEKEn | Terror | Tempest | FERVØ#8054
+[INFO] Already redeemed Code discord.gift/gVHQawHG4jfnEKEn | Terror | Tempest | FERVØ#8054
+[WARN] Invalid Code discord.gift/vjRBWy2FdeJCpYrB | Terror | ٴٴٴٴ#1549
+[WARN] Invalid Code discord.gift/ZrY8goyJp9xAFmWI | Terror | ٴٴٴٴ#1549
+[WARN] Invalid Code discord.gift/3YspnyIZOJ3Hbq5x | Terror | ٴٴٴٴ#1549
+[WARN] Invalid Code discord.gift/M4br4m9gk4FaYjyl | Terror | ٴٴٴٴ#1549
+[INFO] Already redeemed Code discord.gift/4jknDnnpHZbktCYe7R6XwrWH | KFC BALL | Trey#6332
+[INFO] Already redeemed Code discord.gift/4jknDnnpHZbktCYe7R6XwrWH | KFC BALL | 刀モ_ㄥ丹れ刀モモ乙#1348
+[WARN] Invalid Code discord.gift/oopsiewoopsieuwuwemadeaf | KFC BALL | ah#6218
+[INFO] Already redeemed Code discord.gift/jVgEbVEtUH8jJV7z | Terror | dancing nigerian(monte)#5232
+[INFO] Already redeemed Code discord.gift/jVgEbVEtUH8jJV7z | Terror | dancing nigerian(monte)#5232
+[INFO] Already redeemed Code discord.gift/NyH6pYurJ2XWAFBh | Terror | TG Pepper#2428
+[INFO] Already redeemed Code discord.gift/nECk2m69Zgf6NWJS | Terror | TG Pepper#2428
+[INFO] Already redeemed Code discord.gift/nECk2m69Zgf6NWJS | Terror | TG Pepper#2428
+[INFO] Already redeemed Code discord.gift/FBh7ddnwn6erM2QR | Terror | reaperr#0001
+[INFO] Already redeemed Code discord.gift/VZkxyexyUkVBN4da | Terror | reaperr#0001
+[INFO] Already redeemed Code discord.gift/kMfgPemqv8HeYdJ7 | Terror | LOVE.#9999
+[WARN] Invalid Code discord.gift/1jsgIYFMTPxdJIb0 | Thizz 2021 | majid#2236
+[WARN] Invalid Code discord.gift/cpjyfC4tlsWgQIr3 | Thizz 2021 | majid#2236
+[WARN] Invalid Code discord.gift/NhYyKBQXfmUUP1eN | Thizz 2021 | majid#2236
+[WARN] Invalid Code discord.gift/k64obauNc2CwMkQS | Thizz 2021 | majid#2236
+[WARN] Invalid Code discord.gift/z6JAvYlQdN4Z8NmP | Thizz 2021 | majid#2236
+[WARN] Invalid Code discord.gift/j9emVbFnBsxKkkVr | Thizz 2021 | majid#2236
+[WARN] Invalid Code discord.gift/n7zM1Vw1mcZBzJ6a | Thizz 2021 | majid#2236
+[WARN] Invalid Code discord.gift/G6vEa70nmeGVy4un | Thizz 2021 | majid#2236
+[WARN] Invalid Code discord.gift/ym5lHCIZNEFife9a | Thizz 2021 | majid#2236
+[WARN] Invalid Code discord.gift/HmFLmNTdmBINKLBV | Thizz 2021 | majid#2236
+[WARN] Invalid Code discord.gift/phfUgHUYbRneBLGS | Thizz 2021 | majid#2236
+[INFO] Already redeemed Code discord.gift/6uJH3BRQHCdapZCZsewwKyB5 | Anomic Community | Huni#8857
+[INFO] Already redeemed Code discord.gift/6uJH3BRQHCdapZCZsewwKyB5 | Anomic Community | Huni#8857
+[INFO] Already redeemed Code discord.gift/6uJH3BRQHCdapZCZsewwKyB5 | Anomic Community | Huni#8857
+[INFO] Already redeemed Code discord.gift/6uJH3BRQHCdapZCZsewwKyB5 | Anomic Community | Huni#8857
+[INFO] Already redeemed Code discord.gift/6uJH3BRQHCdapZCZsewwKyB5 | Anomic Community | Huni#8857
+[WARN] Invalid Code discord.gift/dwadaYtefassdYT143k | Anomic Community | Kelodius#2037
+[WARN] Invalid Code discord.gift/dwadaYtefassdYT143k | Anomic Community | Huni#8857
+[INFO] Already redeemed Code discord.gift/4jknDnnpHZbktCYe7R6XwrWH | KFC BALL | Shiretoko#3774
+[WARN] Invalid Code discord.gift/gZIN2rxwqCWhNW44 | KFC BALL | Sequences#1234
+[WARN] Invalid Code discord.gift/gZIN2rxwqCWhNW44 | KFC BALL | 𝔞𝔰𝔲𝔟𝔦#8760
+[WARN] Invalid Code discord.gift/TI88pv5V7XYzPgJj | KFC BALL | Synterweyst#9060
+[INFO] Already redeemed Code discord.gift/Hsh5MKvmEgddhZwd | memeology | Qwandri 超出#0267
+[INFO] Already redeemed Code discord.gift/Hsh5MKvmEgddhZwd | memeology | waitno#0900
+[INFO] Already redeemed Code discord.gift/Hsh5MKvmEgddhZwd | memeology | waitno#0900
+[INFO] Already redeemed Code discord.gift/xW7gR5Gw2RWXWQpZfayHFFk6 | memeology | I am so cool#8156
+[WARN] Invalid Code discord.gift/vVRkiqH07B2BOify | 𝘙𝘪𝘷𝘦𝘳 | 勇敢的#5757
+[WARN] Invalid Code discord.gift/GCU2e62pYKU3GRKTRnbQmPRc | 𝘙𝘪𝘷𝘦𝘳 | シ Ｃｒｙｐｔ !#3722
+[WARN] Invalid Code discord.gift/4ycdgGbq77msXuqqXhhTwvwV | 𝘙𝘪𝘷𝘦𝘳 | シ Ｃｒｙｐｔ !#3722
+[WARN] Invalid Code discord.gift/BA0efmwuekQDbOFK | 𝘙𝘪𝘷𝘦𝘳 | 勇敢的#5757
+[WARN] Invalid Code discord.gift/4ycdgGbq77msXuqqXhhTwvwV | 𝘙𝘪𝘷𝘦𝘳 | シ Ｃｒｙｐｔ !#3722
+[INFO] Already redeemed Code discord.gift/C73dEC6U2cDSkQMh | 𝘙𝘪𝘷𝘦𝘳 | 𝒌𝒆𝒍𝒍𝒚#0001
+[INFO] Already redeemed Code discord.gift/zAzf8sGepy2qSGsC | memeology | Rotating bananas#5509
+[INFO] Already redeemed Code discord.gift/Q8w2Re2ksVzt3eKH | 𝘙𝘪𝘷𝘦𝘳 | RAS !#1310
+[INFO] Already redeemed Code discord.gift/Q8w2Re2ksVzt3eKH | 𝘙𝘪𝘷𝘦𝘳 | leana`#0816
+[WARN] Invalid Code discord.gift/EyMmje8UF6ZaQlsd | Terror | Mr Steal Your Girl#9999
+[WARN] Invalid Code discord.gift/WCQ59s4ZTMjasbby | memeology | Potato#7534
+[INFO] Already redeemed Code discord.gift/3EYxvjHXEDxRh29V | Thizz 2021 | XXISplashXXI#4362
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[INFO] Already redeemed Code discord.gift/mbMP2H6MMUywMuRn | ｅ-ｄｇｙ | 4651#4651
+[INFO] Already redeemed Code discord.gift/mbMP2H6MMUywMuRn | ｅ-ｄｇｙ | 4651#4651
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] Invalid Code discord.gift/mbMP2H6MMUywMuRn | niccas kingdom | ! C r y p t#6666
+[WARN] Invalid Code discord.gift/mbMP2H6MMUywMuRn | niccas kingdom | Jad#5943
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
+[WARN] RateLimited
